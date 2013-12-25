@@ -1,5 +1,6 @@
 GEM
   remote: https://rubygems.org/
+  remote: https://rails-assets.org/
   specs:
     actionmailer (4.1.0.beta1)
       actionpack (= 4.1.0.beta1)
@@ -68,6 +69,11 @@ GEM
       bundler (>= 1.3.0, < 2.0)
       railties (= 4.1.0.beta1)
       sprockets-rails (~> 2.0.0)
+    rails-assets-foundation (5.0.2)
+      rails-assets-jquery (>= 2.0.0)
+      rails-assets-modernizr (>= 2.6.2)
+    rails-assets-jquery (2.0.3)
+    rails-assets-modernizr (2.7.1)
     railties (4.1.0.beta1)
       actionpack (= 4.1.0.beta1)
       activesupport (= 4.1.0.beta1)
@@ -127,6 +133,7 @@ DEPENDENCIES
   jbuilder (~> 1.2)
   jquery-rails
   rails (= 4.1.0.beta1)
+  rails-assets-foundation
   sass-rails (~> 4.0.0.rc1)
   sdoc
   slim-rails
