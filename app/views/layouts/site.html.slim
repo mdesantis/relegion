@@ -5,4 +5,20 @@ html class="site-layout"
     = stylesheet_link_tag    "layouts/site", media: "all", "data-turbolinks-track" => true
     = javascript_include_tag "layouts/site", "data-turbolinks-track" => true
   body
-    == yield
+
+
+    div.page
+      
+      header Relegion
+      
+      nav
+        ul
+          li
+            a href="#" Lorem ipsum
+          li
+            a href="#" Dolor sit amet
+      
+      .content
+        == yield
+
+      footer Copyright 2014
