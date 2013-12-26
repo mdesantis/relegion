@@ -5,26 +5,4 @@ html class="site-layout"
     = stylesheet_link_tag    "layouts/site", media: "all", "data-turbolinks-track" => true
     = javascript_include_tag "layouts/site", "data-turbolinks-track" => true
   body
-    / http://foundation.zurb.com/docs/components/topbar.html#build-with-html-classes
-    nav class="top-bar" data-topbar=""
-      ul class="title-area"
-        li class="name"
-          h1
-            a href="#" My Site
-        li class="toggle-topbar menu-icon"
-          a href="#"
-            span Menu
-      section class="top-bar-section"
-        ul class="right"
-          li class="active"
-            a href="#" Right Nav Button Active
-          li class="has-dropdown not-click"
-            a href="#" Right Button with Dropdown
-            ul class="dropdown"
-              li
-                a href="#" First link in dropdown
-        ul class="left"
-          li
-            a href="#" Left Nav Button
-
     == yield

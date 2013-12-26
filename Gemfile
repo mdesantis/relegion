@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-source 'https://rails-assets.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.0.beta1'
@@ -48,4 +47,7 @@ gem 'spring',        group: :development
 
 gem 'slim-rails'
 
-gem 'rails-assets-foundation'
+#gem 'compass', github: 'chriseppstein/compass'
+gem 'compass-rails'
+
+gem 'susy'#, github: 'ericam/susy'
