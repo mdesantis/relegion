@@ -14,11 +14,16 @@
  *= require_self
  */
 
-@import 'susy';
+@import "normalize";
+@import "susy";
 
 //@import url(http://fonts.googleapis.com/css?family=Faster+One);
 
 html.site-layout {
+
+body {
+  background: url(image-path("gladio_4.svg")) no-repeat fixed center center transparent; 
+}
 
 .page {
   // page acts as a container for our grid.
@@ -26,6 +31,10 @@ html.site-layout {
 
   // header and footer are full-width by default.
   header, footer { clear: both; }
+
+  header {
+    text-align: center;
+  }
 
   // nav spans 3 columns of total 12.
   nav { @include span-columns(3, 12); }

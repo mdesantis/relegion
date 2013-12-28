@@ -9,7 +9,9 @@ html class="site-layout"
     div.page
       
       header
-        = link_to 'Relegion', root_path
+        / = link_to root_path do                 \
+        /   image_tag 'gladio_2.svg', width: 200 \
+        / end
       
       nav
         ul

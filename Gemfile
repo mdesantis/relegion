@@ -47,7 +47,6 @@ gem 'spring',        group: :development
 
 gem 'slim-rails'
 
-#gem 'compass', github: 'chriseppstein/compass'
 gem 'compass-rails'
 
-gem 'susy'#, github: 'ericam/susy'
+gem 'susy'
