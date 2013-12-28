@@ -1,22 +1,24 @@
 doctype html
 html class="site-layout"
   head
-    title Relegion
+    title Legion
     = stylesheet_link_tag    "layouts/site", media: "all", "data-turbolinks-track" => true
     = javascript_include_tag "layouts/site", "data-turbolinks-track" => true
   body
 
-
     div.page
       
-      header Relegion
+      header
+        = link_to 'Relegion', root_path
       
       nav
         ul
           li
-            a href="#" Lorem ipsum
+            = link_to 'Players', players_page_path
           li
-            a href="#" Dolor sit amet
+            = link_to 'Maps', maps_page_path
+          li
+            = link_to 'Contact', contact_page_path
       
       .content
         == yield
