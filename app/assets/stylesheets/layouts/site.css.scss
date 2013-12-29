@@ -22,7 +22,7 @@
 html.site-layout {
 
 body {
-  background: url(image-path("gladio_4.svg")) no-repeat fixed center center transparent; 
+  background: url(image-path("gladio_5.svg")) repeat-x fixed center center transparent; 
 }
 
 .page {
@@ -34,6 +34,16 @@ body {
 
   header {
     text-align: center;
+    a {
+      font-size: 7em;
+      text-transform: uppercase;
+      text-decoration: none;
+      color: inherit;
+      img {
+        height: 1em;
+        vertical-align: -12%;
+      }
+    }
   }
 
   // nav spans 3 columns of total 12.

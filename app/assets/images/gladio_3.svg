@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="676.96118"
-   height="439.23724"
+   width="455.23724"
+   height="677.96143"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="gladio_2.svg">
+  <defs
+     id="defs22" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.71858959"
-     inkscape:cx="699.66012"
-     inkscape:cy="248.57584"
+     inkscape:cx="35.288302"
+     inkscape:cy="330.76918"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -55,13 +55,11 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Livello 3"
-     transform="translate(119.8681,-493.21112)">
+     transform="translate(1.0093284,-371.2942)">
     <g
-       id="g5955"
-       style="stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0,1,-1,0,3277.201,495.21579)">
+       id="g3782">
       <g
-         transform="matrix(0,-1,1,0,-328.92917,3436.7954)"
+         transform="matrix(0,-1,1,0,-327.93383,1087.9817)"
          id="g3000-3-15"
          style="stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none">
         <path
@@ -88,7 +86,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0,1,-1,0,590.06419,2680.3816)"
+         transform="matrix(0,1,-1,0,599.05953,332.5681)"
          id="g3000-3-15-1"
          style="stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none">
         <path
@@ -115,7 +113,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0,-1,1,0,19.250833,3436.7954)"
+         transform="matrix(0,-1,1,0,36.246168,1087.9817)"
          id="g3000-3-15-1-7"
          style="stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none">
         <path

@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="364.19"
-   height="677.96143"
+   width="266.97"
+   height="496.98962"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gladio_4.svg">
+   sodipodi:docname="gladio_5.svg">
   <defs
      id="defs22" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.71858959"
-     inkscape:cx="35.288302"
-     inkscape:cy="330.76918"
+     inkscape:cx="146.61625"
+     inkscape:cy="219.98806"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,10 +55,11 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Livello 3"
-     transform="translate(1.0093284,-371.2942)">
+     transform="translate(1.0080832,-552.81407)">
     <g
        id="g3833"
-       style="opacity:0.1">
+       style="opacity:0.1"
+       transform="matrix(0.73306478,0,0,0.73306478,-0.26818003,280.63137)">
       <g
          transform="matrix(0,-1,1,0,-327.93383,1087.9817)"
          id="g3000-3-15"
